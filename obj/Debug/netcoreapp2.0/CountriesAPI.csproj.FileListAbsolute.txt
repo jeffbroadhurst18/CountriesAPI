@@ -1,0 +1,11 @@
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.0\CountriesAPI.deps.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.0\CountriesAPI.runtimeconfig.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.0\CountriesAPI.runtimeconfig.dev.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.0\CountriesAPI.dll
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.csprojResolveAssemblyReference.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.csproj.CoreCompileInputs.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.AssemblyInfoInputs.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.AssemblyInfo.cs
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.0\CountriesAPI.pdb
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.dll
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.0\CountriesAPI.pdb

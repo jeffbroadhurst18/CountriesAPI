@@ -1,0 +1,14 @@
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.1\CountriesAPI.deps.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.1\CountriesAPI.runtimeconfig.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.1\CountriesAPI.runtimeconfig.dev.json
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.1\CountriesAPI.dll
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.csprojAssemblyReference.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.csproj.CoreCompileInputs.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.AssemblyInfoInputs.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.AssemblyInfo.cs
+c:\git\CountriesAPI\CountriesAPI\bin\Debug\netcoreapp2.1\CountriesAPI.pdb
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.RazorAssemblyInfo.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.RazorAssemblyInfo.cs
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.RazorTargetAssemblyInfo.cache
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.dll
+c:\git\CountriesAPI\CountriesAPI\obj\Debug\netcoreapp2.1\CountriesAPI.pdb
